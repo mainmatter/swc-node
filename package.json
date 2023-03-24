@@ -47,7 +47,7 @@
     "@types/sinon": "^10.0.11",
     "@typescript-eslint/eslint-plugin": "^5.28.0",
     "@typescript-eslint/parser": "^5.28.0",
-    "ava": "^4.3.0",
+    "ava": "^5.0.0",
     "benchmark": "^2.1.4",
     "colorette": "^2.0.19",
     "esbuild": "^0.14.43",
